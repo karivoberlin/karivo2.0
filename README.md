@@ -1,12 +1,6 @@
-# KARIVO Premium v0.6
+# KARIVO Experience Hero v0.8
 
-## Neu in v0.6
-- Signature-System Section mit Scroll-Line
-- neue Timeline/Pillar Cards
-- Tech-Wall für Next.js, Framer Motion, R3F usw.
-- Proof Section mit Metriken und Testimonials
-- großer Final-CTA vor dem Kontakt
-- mehr responsive Feinschliff
+Startbildschirm mit riesiger schwarzer Glaskugel, minimalem KARIVO-Branding und Text unten links.
 
 ## Start
 ```bash
