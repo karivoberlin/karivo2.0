@@ -1,6 +1,18 @@
-# KARIVO Experience Hero v0.8
+# KARIVO Premium v0.7
 
-Startbildschirm mit riesiger schwarzer Glaskugel, minimalem KARIVO-Branding und Text unten links.
+Echte Erweiterung auf Basis des hochgeladenen Codes.
+
+## Neu in v0.7
+- PremiumFeatures Section
+- ScrollStory mit animiertem Mockup
+- ConversionLab Section
+- DesignSystem Section
+- CaseStudies mit Vorher/Nachher-Logik
+- LaunchChecklist
+- ProofSection
+- FAQ
+- FinalCTA
+- deutlich erweiterte CSS-Struktur
 
 ## Start
 ```bash
@@ -12,3 +24,5 @@ npm run dev
 ```bash
 npm run build
 ```
+
+Für GitHub/Vercel geeignet.
